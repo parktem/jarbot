@@ -1,6 +1,8 @@
-Holi
-
-que 
+Este bot está en desarrollo, cualquier sugerencia será bienvenida. Estos son los comandos actuales: 
 
 
-tallasldamdasda estas
+
+
+
+
+1) 'ping' muestra la latencia del bot 
